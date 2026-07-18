@@ -2,6 +2,17 @@
 Project files for internship at Althion, a med-tech company specialised in designing RO water and dialysis systems.
 
 > **Internal use only — Althion.** Not for public distribution.
+> Access to files will be provided upon request.
+
+## Component Designs
+The designs for the following components are available
+1. Contractor Box
+2. Control Panel
+3. Display Panel
+4. Structural Frame (Designs for the above components are included in the RO Frame CAD File)
+6. Prototype of Tablet Dispenser for Urea Clearence Monitor
+7. Prototype for Conductivity Sensor Housing
+8. Venturi for RO water systems
 
 ## File Types
 |Extension|Description|

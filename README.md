@@ -6,7 +6,7 @@ Project files for internship at Althion, a med-tech company specialised in desig
 
 ## Component Designs
 The designs for the following components are available
-1. Contractor Box
+1. Contactor Box
 2. Control Panel
 3. Display Panel
 4. Structural Frame (Designs for the above components are included in the RO Frame CAD File)
